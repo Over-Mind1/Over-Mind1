@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Over-Mind1
-- 👀 I’m interested in Programming & Cyber ​​Security
+- 👀 I’m interested in Programming && Ai
 - 🌱 I’m currently learning Programming 
 - 💞️ I’m looking to collaborate on deep project
 - 📫 How to reach me ...
