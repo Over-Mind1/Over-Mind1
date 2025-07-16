@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me
 
 🎓 Graduated with a B.Sc. in Computer Science from **October 6 University (O6U)**  
-🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and **BCI (Brain-Computer Interfaces)**  
+🤖 Passionate about **Artificial Intelligence**, **Machine Learning**  
 ⚙️ I love building smart, data-driven systems that solve real-world challenges  
 🌍 Always learning and exploring the frontiers of deep learning and applied data science  
 
@@ -61,7 +61,7 @@
   <a href="https://www.kaggle.com/mo7amedsabry" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
-  <a href="https://www.codewars.com/users/Over-Mind1/badges/small" target="_blank">
+  <a href="https://www.codewars.com/users/Over-Mind1" target="_blank">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars"/>
   </a>
 </p>
