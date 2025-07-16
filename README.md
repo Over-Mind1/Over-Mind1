@@ -39,10 +39,6 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Over-Mind1&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&langs_count=10&include_all_commits=true&count_weight=0.7&size_weight=0.3" />
 </div>
 
-<div align="center">
- <img width="70%" src="https://streak-stats.demolab.com/?user=Over-Mind1&theme=dark&hide_border=true&stroke=0000&background=0d1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Over-Mind1 GitHub Streak" />
-</div>
-
 ---
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Over-Mind1&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
