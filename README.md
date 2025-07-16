@@ -1,47 +1,74 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=blur&height=280&color=gradient&text=Mohamed%20Sabry%20Hussien&fontSize=40&desc=AI%20%7C%20ML%20%7C%20Brain-Tech%20%7C%20Football%20Analytics&descAlign=65&descAlignY=70"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&section=header&reversal=true&text=Mohamed%20Sabry%20Hussien&fontSize=38&textBg=true&fontColor=ffffff" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00BFBF&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+Mohamed+Sabry+Hussien;AI+Engineer+%7C+Data+Scientist;Football+%26+Brain+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00BFBF&center=true&vCenter=true&width=500&lines=Hello+World+👋;I'm+Mohamed+Sabry;AI+%7C+ML+%7C+BCI+Enthusiast;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </h1>
 
 ---
 
-## 🧠 About Me
-🎓 Final-year CS student at October 6 University  
-🔭 Currently developing AI projects in health, finance, and sports  
-🧪 Participating in AI competitions (AIC-3 BCI Challenge)  
-💼 Machine Learning Intern @ Electro Pi | AI Trainee @ STEM EC  
-⚽ Passionate about football analytics, EEG classification, and real-time ML apps
+## 👨‍💻 About Me
 
-## 💼 Tech Stack
-[Icons for Python, Pandas, Scikit-learn, PyTorch, TensorFlow, Streamlit, Matplotlib, Seaborn, SQL, Git, etc.]
-
-## 🚀 Featured Projects
-- 🎯 [**BCI SSVEP/MI EEG Classification**](#): Deep learning pipelines for brain signal decoding  
-- 📊 [**Binance Volume Monitor**](#): Streamlit app detecting pump signals via volume spikes  
-- ⚽ [**Football xG Predictor**](#): Pre-match expected goals estimation using historical data  
-- 🔐 [**Phishing URL Detector**](#): ML classification of malicious vs safe URLs  
-- 🧠 [**EEGNetv4 Fine-Tuning**](#): Custom notebook for EEGNet training on MI data
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=radical" />
-</div>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 🌐 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://kaggle.com/YOUR_KAGGLE)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/YOUR_USERNAME)
+🎓 Graduated with a B.Sc. in Computer Science from **October 6 University (O6U)**  
+🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and **BCI (Brain-Computer Interfaces)**  
+⚙️ I love building smart, data-driven systems that solve real-world challenges  
+🌍 Always learning and exploring the frontiers of deep learning and applied data science  
 
 ---
 
-🧭 *"The best way to predict the future is to create it."*  
+## 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Over-Mind1&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Over-Mind1 GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Over-Mind1&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&langs_count=10&include_all_commits=true&count_weight=0.7&size_weight=0.3" />
+</div>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Over-Mind1&theme=dark&hide_border=true&stroke=0000&background=0d1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Over-Mind1 GitHub Streak" />
+</div>
+
+---
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Over-Mind1&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/m0hamed-sabry/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Over-Mind1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.kaggle.com/mo7amedsabry" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="https://www.codewars.com/users/Over-Mind1/badges/small" target="_blank">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars"/>
+  </a>
+</p>
+
+---
+
+## 🧠 Quote to Live By
+
+> *"AI won't replace you—someone using AI will."*
+
