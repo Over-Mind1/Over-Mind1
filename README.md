@@ -1,7 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:7F00FF,100:00C9A7&text=Mohamed%20Sabry%20Hussien&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<!-- 💠 Futuristic AI Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0c29,50:302b63,100:24243e&text=🤖%20Mohamed%20Sabry%20Hussien%20%7C%20AI%20Engineer&fontSize=36&fontColor=ffffff&animation=fadeIn" />
 
+<!-- 🤖 Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00C9A7&center=true&vCenter=true&width=500&lines=Hi+There+👋;I'm+Mohamed+Sabry;AI+Engineer+%7C+ML+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=🤖+AI+Engineer+%7C+ML+Developer+%7C+Data+Thinker;I+Design+Smart+Machines+That+Learn;Welcome+to+My+Code+Lab!" alt="Typing SVG" />
 </h1>
 
 ---
@@ -9,9 +11,10 @@
 ## 👨‍💻 About Me
 
 🎓 Graduated with a B.Sc. in Computer Science from **October 6 University (O6U)**  
-🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and intelligent systems  
-⚙️ Focused on building smart, data-driven applications with real-world impact  
-🌱 Lifelong learner exploring the power of neural networks, signals, and data pipelines  
+🧠 Specializing in **Artificial Intelligence**, **Machine Learning**, and intelligent signal systems  
+⚙️ I build data-driven solutions that adapt, learn, and solve real-world problems  
+🔭 Exploring frontiers like deep learning, EEG decoding, and robotics  
+💡 Driven by curiosity, logic, and the dream of smarter machines  
 
 ---
 
@@ -35,8 +38,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Over-Mind1&show_icons=true&count_private=true&hide_border=true&title_color=7F00FF&icon_color=00C9A7&text_color=dddddd&bg_color=0f172a" alt="Over-Mind1 GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Over-Mind1&layout=compact&hide_border=true&title_color=7F00FF&text_color=dddddd&bg_color=0f172a&langs_count=10&include_all_commits=true&count_weight=0.7&size_weight=0.3" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Over-Mind1&show_icons=true&count_private=true&hide_border=true&title_color=7F00FF&icon_color=00C9A7&text_color=e0e0e0&bg_color=0f172a" alt="Over-Mind1 GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Over-Mind1&layout=compact&hide_border=true&title_color=7F00FF&text_color=e0e0e0&bg_color=0f172a&langs_count=10&include_all_commits=true&count_weight=0.7&size_weight=0.3" />
 </div>
 
 ---
@@ -66,4 +69,4 @@
 
 ## 🧠 Quote to Live By
 
-> *"AI won’t replace you — someone using AI will."*
+> *"AI won't replace you — someone using AI will."*
