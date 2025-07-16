@@ -1,27 +1,25 @@
-<!-- 💠 Futuristic AI Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0c29,50:302b63,100:24243e&text=🤖%20Mohamed%20Sabry%20Hussien%20%7C%20AI%20Engineer&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:7F00FF,100:00C9A7&section=header&text=Mohamed%20Sabry%20Hussien&fontSize=38&fontColor=ffffff&textBg=false" />
 
-<!-- 🤖 Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=🤖+AI+Engineer+%7C+ML+Developer+%7C+Data+Thinker;I+Design+Smart+Machines+That+Learn;Welcome+to+My+Code+Lab!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=7F00FF&center=true&vCenter=true&width=500&lines=Hello+World+👋;I'm+Mohamed+Sabry;AI+%7C+ML;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </h1>
+
 
 ---
 
 ## 👨‍💻 About Me
 
 🎓 Graduated with a B.Sc. in Computer Science from **October 6 University (O6U)**  
-🧠 Specializing in **Artificial Intelligence**, **Machine Learning**, and intelligent signal systems  
-⚙️ I build data-driven solutions that adapt, learn, and solve real-world problems  
-🔭 Exploring frontiers like deep learning, EEG decoding, and robotics  
-💡 Driven by curiosity, logic, and the dream of smarter machines  
+🤖 Passionate about **Artificial Intelligence**, **Machine Learning**  
+⚙️ I love building smart, data-driven systems that solve real-world challenges  
+🌍 Always learning and exploring the frontiers of deep learning and applied data science  
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -42,9 +40,10 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Over-Mind1&layout=compact&hide_border=true&title_color=7F00FF&text_color=e0e0e0&bg_color=0f172a&langs_count=10&include_all_commits=true&count_weight=0.7&size_weight=0.3" />
 </div>
 
+
 ---
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Over-Mind1&theme=react-dark&line=00C9A7&point=7F00FF&color=ffffff&bg_color=0f172a)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Over-Mind1&theme=github-compact&line=7F00FF&point=00C9A7&color=e0e0e0&bg_color=0f172a)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -69,4 +68,4 @@
 
 ## 🧠 Quote to Live By
 
-> *"AI won't replace you — someone using AI will."*
+> *"AI won't replace you—someone using AI will."*
