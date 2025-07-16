@@ -41,7 +41,6 @@
 
 <div align="center">
  <img width="70%" src="https://streak-stats.demolab.com/?user=Over-Mind1&theme=dark&hide_border=true&stroke=0000&background=0d1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Over-Mind1 GitHub Streak" />
-
 </div>
 
 ---
@@ -72,4 +71,3 @@
 ## 🧠 Quote to Live By
 
 > *"AI won't replace you—someone using AI will."*
-
