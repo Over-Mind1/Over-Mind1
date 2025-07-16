@@ -1,9 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:7F00FF,100:00C9A7&section=header&text=Mohamed%20Sabry%20Hussien&fontSize=38&fontColor=ffffff&textBg=false" />
 
+<!-- 🤖 Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=7F00FF&center=true&vCenter=true&width=500&lines=Hello+World+👋;I'm+Mohamed+Sabry;AI+%7C+ML;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=🤖+AI+Engineer+%7C+ML+Developer+%7C+Data+Thinker;I+Design+Smart+Machines+That+Learn;Welcome+to+My+Code+Lab!" alt="Typing SVG" />
 </h1>
-
 
 ---
 
