@@ -64,6 +64,6 @@
 
 ---
 
-## 🧠 Quote to Live By
+## 🧠 Quote to Live By:
 
 > *"AI won't replace you—someone using AI will."*
