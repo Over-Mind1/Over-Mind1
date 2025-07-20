@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:7F00FF,100:00C9A7&section=header&text=🤖%20Mohamed%20Sabry%20Hussien%20%7C%20Data%20Scientist&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:7F00FF,100:00C9A7&section=header&text=%20Mohamed%20Sabry%20Hussien%20%7C%20Data%20Scientist&fontSize=36&fontColor=ffffff&animation=fadeIn" />
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=7F00FF&center=true&vCenter=true&width=500&lines=Hello+World+👋;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </h1>
