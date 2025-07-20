@@ -41,7 +41,7 @@
 
 ---
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Over-Mind1&theme=react-dark&line=7F00FF&point=00C9A7&color=e0e0e0&bg_color=0f172a)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Over-Mind1&theme=github-compact&line=7F00FF&point=00C9A7&color=e0e0e0&bg_color=0f172a)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
