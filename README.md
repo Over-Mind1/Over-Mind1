@@ -7,10 +7,10 @@
 
 ## 👨‍💻 About Me
 
-🎓 Graduated with a B.Sc. in Computer Science from **October 6 University (O6U)**  
-🤖 Passionate about **Artificial Intelligence**, **Machine Learning**  
-⚙️ I love building smart, data-driven systems that solve real-world challenges  
-🌍 Always learning and exploring the frontiers of deep learning and applied data science  
+🎓 Graduated with a B.Sc. in Computer Science from **October 6 University (O6U).**  
+🤖 Passionate about **Artificial Intelligence**, **Machine Learning.**  
+⚙️ I love building smart, data-driven systems that solve real-world challenges.  
+🌍 Always learning and exploring the frontiers of deep learning and applied data science.  
 
 ---
 
