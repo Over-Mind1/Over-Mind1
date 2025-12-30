@@ -30,14 +30,14 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Over-Mind1&show_icons=true&count_private=true&hide_border=true&title_color=7F00FF&icon_color=00C9A7&text_color=e0e0e0&bg_color=0f172a" alt="Over-Mind1 GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Over-Mind1&layout=compact&hide_border=true&title_color=7F00FF&text_color=e0e0e0&bg_color=0f172a&langs_count=10&include_all_commits=true&count_weight=0.7&size_weight=0.3" />
+  <img width="49%" 
+       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Over-Mind1&theme=tokyonight" />
+  <img width="49%" 
+       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Over-Mind1&theme=tokyonight" />
 </div>
-
 
 ---
 
