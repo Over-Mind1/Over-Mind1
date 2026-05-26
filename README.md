@@ -55,9 +55,9 @@
 
 <div align="center">
   <img width="49%" 
-       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Over-Mind1&theme=dracula&v=1" />
+       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Over-Mind1&theme=tokyonight&v=1" />
   <img width="49%" 
-       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Over-Mind1&theme=dracula&v=1" />
+       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Over-Mind1&theme=tokyonight&v=1" />
 </div>
 
 ---
